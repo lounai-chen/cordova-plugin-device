@@ -31,7 +31,7 @@
     <issue>https://issues.apache.org/jira/browse/CB/component/12320648</issue>
 
     <js-module src="www/device.js" name="device">
-        <clobbers target="device" />
+        <clobbers target="CordovaDevice" />
     </js-module>
 
     <!-- android -->
